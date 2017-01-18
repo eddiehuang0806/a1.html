@@ -1,0 +1,36 @@
+* {
+	background-color: lightgrey;
+}
+h1 {
+	color: gold;
+	font-weight: bold;
+	font-style:italic;
+}
+.goals {
+	font-family:Tahoma;
+	color:red;
+	font-size: 18px
+}
+#email {
+	color:green;
+}
+a {
+	color:orange;
+}
+a:hover {
+	color:black;
+}
+img {
+	height: 259px;
+}
+table, th, td {
+	border: 1px solid green;
+	color: purple;
+	background-color: white;
+}
+th{
+	color:black;
+}
+#strong {
+	font-style:italic;
+}
